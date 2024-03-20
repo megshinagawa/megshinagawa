@@ -24,3 +24,6 @@ I'm currently looking for work as a data analyst.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
+
+### ✍🏼 MY DEV NOTES 
+Check out my dev notes [here](https://megshinagawa.github.io/megs-dev-notes/)! 
