@@ -1,9 +1,6 @@
 ### 🌿 ABOUT ME
 Hello herro, I'm Meg! I'm 24 years old (2000 baby ✌🏼) and I'm originally from Tokyo, Japan 🇯🇵 I used to study computer science and entrepreneurship at Reichman University in Israel, but I had to suspend my studies due to the war that broke out in the area in October of 2023. I have a [YouTube channel](https://www.youtube.com/channel/UCmgNUsFzcte6qmsCLL429pg) with over 1.3K subscribers where I talk about sustainable productivity, and share snippets from my everyday life. 
 
-### 🔎 LOOKING FOR... 
-I'm currently looking for work as a data analyst. 
-
 ### 💻 LANGUAGES
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
