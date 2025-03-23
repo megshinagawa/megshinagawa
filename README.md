@@ -1,6 +1,3 @@
-### 🌿 ABOUT ME
-Hello herro, I'm Meg! I'm 24 years old (2000 baby ✌🏼) and I'm originally from Tokyo, Japan 🇯🇵 I have a [YouTube channel](https://www.youtube.com/channel/UCmgNUsFzcte6qmsCLL429pg) with over 1.3K subscribers where I talk about sustainable productivity, and share snippets from my everyday life. 
-
 ### 💻 LANGUAGES
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -21,6 +18,3 @@ Hello herro, I'm Meg! I'm 24 years old (2000 baby ✌🏼) and I'm originally fr
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
-### ✍🏼 MY DEV NOTES 
-Check out my dev notes [here](https://megshinagawa.github.io/megs-dev-notes/)! 
